@@ -1,0 +1,174 @@
+
+
+
+    
+
+#one{
+    height: 110px;
+    width: 400px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-width: 10px;
+    border: 5px solid red;
+    border-radius: 30px;
+    font-style: italic;
+    display: inline-block;
+    text-align: center;
+    margin:  10px 10px 10px 10px;
+    padding: 20px;
+}
+#two{
+    height: 70px;
+    width: 350px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-width: 10px;
+    border: 5px solid red;
+    border-radius: 30px;
+    font-style: italic;
+    display: inline-block;
+    text-align: center;
+    margin: -120px -120px -120px -120px;
+    padding: 10px; 
+}
+#three{
+    height: 150px;
+    width: 270px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-width: 10px;
+    border: 5px solid red;
+    border-radius: 30px;
+    font-style: italic;
+    display: inline-block;
+    text-align: center;
+   margin: 70px -50px 180px 350px;
+    padding: 20px; 
+}
+#four{
+    height: 290px;
+    width: 290px;
+    text-decoration: underline 2px;
+    border-radius: 50%;
+    background-color: teal;
+    border: 5px gray;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    left: 40px;
+    top: 700px;
+    padding: 50px;
+
+}
+#five{
+    background-color: antiquewhite;
+    border: 5px dashed red;
+    text-align: center;
+    border-radius: 5px;
+    width: 400px;
+    display: inline-block;
+    margin-left: 600px;
+}
+#six{
+    height: 55px;
+    width: 400px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-width: 10px;
+    border: 5px solid red;
+    border-radius: 30px;
+    font-style: italic;
+    display: inline-block;
+    text-align: center;
+    margin: 10px 400px 10px 400px;
+    padding: 20px;
+
+}
+#seven{
+    background-color: aqua;
+    color: cornflowerblue;
+    text-align: center;
+    height: 250px;
+    width: 300px;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 25px;
+    margin: 60px;
+    justify-content: space-evenly;
+}
+#eight{
+    background-color: aqua;
+    color: cornflowerblue;
+    text-align: center;
+    height: 250px;
+    width: 300px;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 25px;
+    margin: 60px;
+    justify-content: space-evenly;
+}
+#nine{
+    background-color: aqua;
+    color: cornflowerblue;
+    text-align: center;
+    height: 250px;
+    width: 300px;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 25px;
+    margin: 60px;
+    justify-content: space-evenly;
+}
+#ten{
+    background-color: aqua;
+    color: cornflowerblue;
+    text-align: center;
+    height: 250px;
+    width: 300px;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 25px;
+    margin: 60px;
+    justify-content: space-evenly;
+}
+#eleven{
+    background-color: aqua;
+    color: cornflowerblue;
+    text-align: center;
+    height: 250px;
+    width: 300px;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 25px;
+    margin:60px;
+    justify-content: space-evenly;
+}
+#twelve{
+    background-color: aqua;
+    color: cornflowerblue;
+    text-align: center;
+    height: 250px;
+    width: 300px;
+    display: inline-block;
+    border: 2px solid green;
+    border-radius: 25px;
+    margin: 60px;
+    justify-content: space-evenly;
+}
+.menu{
+    display: flex;
+    /* justify-content: space-evenly; */
+    
+}
+.menu1{
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+.main{
+    background-image:repeating-linear-gradient();
+}
